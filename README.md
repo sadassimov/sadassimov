@@ -1,20 +1,25 @@
-### Hi there 👋
+
 
      
 <strong>Hi, I am Assimov-Zhao!👋 </strong>
 
-<strong>A GIS developer from China🇨🇳. </strong>
+<strong>A gis student from China🇨🇳. </strong>
 ### ⭐️ &nbsp;Github Star
 
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sadassimov&count_private=true&show_icons=true"/>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
-![Koa.js](https://img.shields.io/badge/-Koa2-333333?style=flat&logo=koa.js)
-![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
+![Cesium](https://img.shields.io/badge/-Cesium-333333?style=flat&logo=cesium)
+![google-earth-engine](https://img.shields.io/badge/-google-earth-engine-333333?style=flat&logo=google-earth-engine)
+![geemap](https://img.shields.io/badge/-geemap-333333?style=flat&logo=geemap)
+![paddle](https://img.shields.io/badge/-paddle-333333?style=flat&logo=paddle)
+![GDAL](https://img.shields.io/badge/-GDAL-333333?style=flat&logo=GDAL)
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="mailto:assimovzl98@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-assimovzl98@gmail.com-blue?style=flat-square&logo=gmail"></a>
