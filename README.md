@@ -1,7 +1,7 @@
 
 
      
-<strong>Hi, I am Assimov-Zhao!👋 </strong>
+<strong>Hi, I am Assimov-Zhao! </strong>
 
 <strong>A gis student from China🇨🇳. </strong>
 ### ⭐️ &nbsp;Github Star
