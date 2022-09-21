@@ -15,7 +15,7 @@
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
 ![Cesium](https://img.shields.io/badge/-Cesium-333333?style=flat&logo=cesium)
-![GEE](https://img.shields.io/badge/-google-earth-engine-333333?style=flat&logo=GEE)
+![GEE](https://img.shields.io/badge/-GEE-333333?style=flat&logo=GEE)
 ![geemap](https://img.shields.io/badge/-geemap-333333?style=flat&logo=geemap)
 ![paddle](https://img.shields.io/badge/-paddle-333333?style=flat&logo=paddle)
 ![GDAL](https://img.shields.io/badge/-GDAL-333333?style=flat&logo=GDAL)
