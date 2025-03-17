@@ -22,7 +22,7 @@
 
 
 ### 🤝🏻 &nbsp;Connect with Me
-<a href="mailto:liu.zhao@utas.edu.au"><img alt="Email" src="https://img.shields.io/badge/Email-assimovzl98@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:liu.zhao@utas.edu.au"><img alt="Email" src="https://img.shields.io/badge/Email-liu.zhao@utas.edu.au-blue?style=flat-square&logo=gmail"></a>
 
 
 ### 🛳 &nbsp;Your ticket ID for this visit
