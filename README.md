@@ -3,7 +3,7 @@
      
 <strong>Hi, I am Liu Zhao! </strong>
 
-<strong>A gis student from China🇨🇳. </strong>
+<strong>Liu Zhao is a Ph.D. student in Wildfire Remote Sensing at the University of Tasmania's Fire Centre, focusing in post-fire vegetation resilience. </strong>
 ### ⭐️ &nbsp;Github Star
 
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sadassimov&count_private=true&show_icons=true"/>
@@ -22,7 +22,7 @@
 
 
 ### 🤝🏻 &nbsp;Connect with Me
-<a href="mailto:assimovzl98@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-assimovzl98@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:liu.zhao@utas.edu.au"><img alt="Email" src="https://img.shields.io/badge/Email-assimovzl98@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 
 ### 🛳 &nbsp;Your ticket ID for this visit
